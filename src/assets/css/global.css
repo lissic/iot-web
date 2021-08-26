@@ -1,0 +1,24 @@
+/*公共样式*/
+
+
+/* 弹性布局默认水平 */
+.df{
+  display: flex;
+}
+/* 垂直弹性布局 */
+.dfc{
+  display: flex;
+  flex-direction: column;
+}
+/* 水瓶居中  */
+.jcc{
+justify-content: center;
+}
+/*对齐两边*/
+.jcsb{
+  justify-content: space-between;
+}
+/* 垂直居中 */
+.aic{
+  align-items: center;
+}
